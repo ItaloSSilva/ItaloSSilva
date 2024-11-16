@@ -1,16 +1,14 @@
-## Hi there 👋
+## E ai! Eu sou o Italo Silva
 
-<!--
-**ItaloSSilva/ItaloSSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Eu estou atualmente trabalhando como back-end
+- 🌱 Estudando Python 
+- ⚡ Fato sobre mim: Não curto açaí sem açúcar
 
-Here are some ideas to get you started:
+![Italo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItaloSSilva&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Italo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Italo-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="right" alt="Italo-R2" height="128" width="128" src="https://i.pinimg.com/originals/5b/09/89/5b098992db195ee1dd3cf80e6b782262.gif">
+</div>
+
