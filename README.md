@@ -2,9 +2,9 @@
 
 <h1 align="center"> Hi there! Eu sou Italo Silva </h1><br>
 
-- 🔭 Eu estou atualmente trabalhando como back-end
-- 🌱 Estudando Python 
-- ⚡ Fato sobre mim: Tenho um bigode lindo
+- 🔭 Eu estou atualmente trabalhando como Desenvolvedor Back-End na empresa júnior **LinkJR**
+- 🌱 Atualmente estudando **JavaScript**
+- ⚡ Apaixonado por novidades na área de tecnologia.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItaloSSilva&show_icons=true&theme=radical"/>
@@ -37,16 +37,16 @@ Linguagens & Tecnologias: `Node.js`, `Javascript`
 - **Ferramentas e Plataformas:** Git, Docker, AWS
 
 ## Projetos
-
+<p align="left">
 <a href="https://github.com/ItaloSSilva/Flappy-bird" title="Flappy Bird Clone">
-<img width="20%" class="larger" src="https://cdn.worldvectorlogo.com/logos/flappy-bird.svg" alt="Flappy Bird logo vector">
+<img width="18%" class="larger" src="https://cdn.worldvectorlogo.com/logos/flappy-bird.svg" alt="Flappy Bird logo vector">
 
-### [Flappy Bird Clone](https://github.com/ItaloSSilva/flappy-bird-clone)
-Um clone do famoso jogo Flappy Bird desenvolvido em Python usando Pygame.
+### 
+Um clone do famoso jogo **Flappy Bird** desenvolvido em **Python** usando **Pygame**.
 
-- Implementação de mecânicas de jogo como física de voo e colisão.
-- Utilização de sprites e animações para gráficos do jogo.
-- Gerenciamento de sons e música de fundo.
+- Implementação de mecânicas de jogo como **física de voo e colisão**.
+- Utilização de **sprites** e **animações** para gráficos do jogo.
+- Gerenciamento de **sons** e **música** de fundo.
 
 ### [API de Gerenciamento de Tarefas](https://github.com/ItaloSSilva/task-manager-api)
 Uma API RESTful para gerenciamento de tarefas desenvolvida em Node.js.
