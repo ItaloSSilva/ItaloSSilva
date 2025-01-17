@@ -6,16 +6,14 @@
 - 🌱 Atualmente estudando **JavaScript**
 - ⚡ Apaixonado por novidades na área de tecnologia.
 
+<br/>
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItaloSSilva&show_icons=true&theme=radical"/>
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloSSilva&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Italo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Italo-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Italo-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" />
-</div>
+<br/>
 
 **Desenvolvedor Back-end** \
 [*LinkJr*](https://linkjr.com.br/) • Part-time remoto \
@@ -31,7 +29,14 @@ Linguagens & Tecnologias: `Node.js`, `Javascript`
 
 ## Habilidades Técnicas
 
-- **Linguagens de Programação:** Python, JavaScript, Node.js
+- **Linguagens de Programação:**
+<p align="left">
+<a href="https://www.python.org/" title="Python">
+<img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"&link=https://www.python.org/ alt="Python"/></a>
+<img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript"/></a>
+<a href="https://nodejs.org/en" title="NodeJS">
+<img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg"&link=https://nodejs.org/en alt="NodeJS"/></a>
+
 - **Frameworks e Bibliotecas:** Express, Pygame
 - **Bancos de Dados:** MySQL, MongoDB
 - **Ferramentas e Plataformas:** Git, Docker, AWS
