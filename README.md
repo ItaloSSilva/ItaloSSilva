@@ -17,9 +17,6 @@
   <img align="center" alt="Italo-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" />
 </div>
 
-## Experiência de trabalho
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-
 **Desenvolvedor Back-end** \
 [*LinkJr*](https://linkjr.com.br/) • Part-time remoto \
 Out 2024 - Atualmente \
@@ -41,6 +38,9 @@ Linguagens & Tecnologias: `Node.js`, `Javascript`
 
 ## Projetos
 
+<a href="https://github.com/ItaloSSilva/Flappy-bird" title="Flappy Bird Clone">
+<img width="20%" class="larger" src="https://cdn.worldvectorlogo.com/logos/flappy-bird.svg" alt="Flappy Bird logo vector">
+
 ### [Flappy Bird Clone](https://github.com/ItaloSSilva/flappy-bird-clone)
 Um clone do famoso jogo Flappy Bird desenvolvido em Python usando Pygame.
 
@@ -57,8 +57,13 @@ Uma API RESTful para gerenciamento de tarefas desenvolvida em Node.js.
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/silvaitalo/)
-- [GitHub](https://github.com/ItaloSSilva)
-- [Email](mailto:silva_italo190@hotmail.com)
+<p align="left">
+<a href="mailto:silva_italo190@hotmail.com" title="Outlook">
+<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:styvisonviana@gmail.com" alt="Outlook"/></a>
+<a href="https://www.linkedin.com/in/edsoncostadev/" title="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.instagram.com/styvisonviana/" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/italoosouza_/" title="Instagram">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/italoosouza_/" alt="Instagram"/></a>
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00b2,100:ff00b2&height=120&section=footer"/>
