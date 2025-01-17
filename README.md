@@ -65,7 +65,7 @@ Uma API RESTful para gerenciamento de tarefas desenvolvida em Node.js.
 <p align="left">
 <a href="mailto:silva_italo190@hotmail.com" title="Outlook">
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:styvisonviana@gmail.com" alt="Outlook"/></a>
-<a href="https://www.linkedin.com/in/edsoncostadev/" title="LinkedIn">
+<a href="https://www.linkedin.com/in/silvaitalo/" title="LinkedIn">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.instagram.com/styvisonviana/" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/italoosouza_/" title="Instagram">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/italoosouza_/" alt="Instagram"/></a>
