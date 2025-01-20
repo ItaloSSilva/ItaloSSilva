@@ -60,6 +60,13 @@ Uma API RESTful para gerenciamento de tarefas desenvolvida em Node.js.
 - Integração com banco de dados MongoDB.
 - Implementação de testes unitários com Jest.
 
+## Idiomas
+>### **Português 🇧🇷**
+>Nativo
+
+>### **Inglês 🇺🇸**
+>Avançado 
+
 ## Contato
 
 <p align="left">
