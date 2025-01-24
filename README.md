@@ -65,7 +65,12 @@ Um clone do famoso jogo **Flappy Bird** desenvolvido em **Python** usando **Pyga
 - Utilização de **sprites** e **animações** para gráficos do jogo.
 - Gerenciamento de **sons** e **música** de fundo.
 
-### [API de Gerenciamento de Tarefas](https://github.com/ItaloSSilva/task-manager-api)
+<p align="left">
+  <img width="18%" class="larger" src="https://i.imgur.com/K4ls9LL.png" alt="API em Node.js">
+  <a href="https://github.com/ItaloSSilva/task-manager-api" title="API em Node.js">
+</p>
+
+
 Uma API RESTful para gerenciamento de tarefas desenvolvida em Node.js.
 
 - CRUD de tarefas com autenticação de usuários.
