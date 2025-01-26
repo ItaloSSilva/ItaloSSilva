@@ -39,13 +39,14 @@ Linguagens & Tecnologias: `Node.js`, `Javascript`
 
 - **Frameworks e Bibliotecas:**
 <p align="left">
-<a href="https://expressjs.com/pt-br/" title="Express">
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"&link=https://expressjs.com/pt-br/ alt="Express"/></a>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"&link=https://react.dev/ alt="React"/></a>
 
 - **Bancos de Dados:**
 <p align="left">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"&link=https://www.mysql.com/ alt="MySQL"/></a>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"&link=https://www.mongodb.com/pt-br alt="MongoDB"/></a>
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"&link=https://www.prisma.io/ alt="Prisma"/></a>
 
 - **Ferramentas e Plataformas:**
 <p align="left">
