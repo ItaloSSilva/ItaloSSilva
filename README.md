@@ -66,8 +66,8 @@ Um clone do famoso jogo **Flappy Bird** desenvolvido em **Python** usando **Pyga
 - Gerenciamento de **sons** e **música** de fundo.
 
 <p align="left">
+  <a href="https://github.com/ItaloSSilva/cadastro-de-usuarios" title="API em Node.js">
   <img width="18%" class="larger" src="https://i.imgur.com/K4ls9LL.png" alt="API em Node.js">
-  <a href="https://github.com/ItaloSSilva/task-manager-api" title="API em Node.js">
 </p>
 
 
