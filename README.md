@@ -70,12 +70,18 @@ Um clone do famoso jogo **Flappy Bird** desenvolvido em **Python** usando **Pyga
   <img width="18%" class="larger" src="https://i.imgur.com/K4ls9LL.png" alt="API em Node.js">
 </p>
 
+Projeto de aplicação web desenvolvido para cadastro e gerenciamento de usuários, com funcionalidades completas de criação, leitura, atualização e deleção (CRUD).
 
-Uma API RESTful para gerenciamento de tarefas desenvolvida em Node.js.
+*Backend*
+- Tecnologias: Node.js, Express, Prisma
+- Funcionalidades: API RESTful com suporte a operações CRUD, incluindo integração com banco de dados via Prisma ORM.
 
-- CRUD de tarefas com autenticação de usuários.
-- Integração com banco de dados MongoDB.
-- Implementação de testes unitários com Jest.
+*Frontend*
+- Tecnologias: React, Vite
+- Funcionalidades: Interface responsiva e intuitiva para cadastro e gestão de usuários, garantindo uma experiência de usuário eficiente.
+
+Este projeto foi estruturado para ser escalável e de fácil manutenção, utilizando boas práticas de desenvolvimento e tecnologias modernas.
+
 
 ## Idiomas
 >### **Português 🇧🇷**
