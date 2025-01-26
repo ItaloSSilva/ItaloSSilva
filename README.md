@@ -80,9 +80,6 @@ Projeto de aplicação web desenvolvido para cadastro e gerenciamento de usuári
 - Tecnologias: React, Vite
 - Funcionalidades: Interface responsiva e intuitiva para cadastro e gestão de usuários, garantindo uma experiência de usuário eficiente.
 
-Este projeto foi estruturado para ser escalável e de fácil manutenção, utilizando boas práticas de desenvolvimento e tecnologias modernas.
-
-
 ## Idiomas
 >### **Português 🇧🇷**
 >Nativo
