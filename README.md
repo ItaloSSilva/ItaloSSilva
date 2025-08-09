@@ -3,7 +3,7 @@
 <h1 align="center"> Hi there! Eu sou Italo Silva </h1><br>
 
 - 🔭 Eu estou atualmente trabalhando como Desenvolvedor Back-End na empresa júnior **LinkJR**
-- 🌱 Atualmente estudando **JavaScript**
+- 🌱 Atualmente estudando **Python**
 - ⚡ Apaixonado por novidades na área de tecnologia.
 
 <br/>
